@@ -1,0 +1,9 @@
+# Ignorar todos los archivos tmp
+*.tmp
+# Ignorar archivo de contraseñas
+contraseñas.txt
+# Ignorar foto1 y foto2 pero no foto10
+foto[12].png
+# Ignorar temporal excepto importante
+temporal/*
+!temporal/importante.txt
