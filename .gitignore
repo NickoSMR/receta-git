@@ -6,4 +6,4 @@ contraseñas.txt
 foto[12].png
 # Ignorar temporal excepto importante
 temporal/*
-!temporal/importante.txt
+!temporal/importante.txtnotas-privadas.txt
