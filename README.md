@@ -8,3 +8,7 @@ Este repositorio contiene mi receta y las practicas realizadas con Git.
 - Historial de cambios con Git.
 
 [Documentacion de Git](https://git-scm.com/docs)
+
+## Cambio desde GitHub
+
+Esta linea se ha añadido directamente desde la web de GitHub.
